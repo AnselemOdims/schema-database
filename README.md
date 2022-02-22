@@ -1,31 +1,27 @@
-# curriculum-databases-projects-template
+# Schema-Database
+> Created the database from the schema diagram shown below.
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
-
+![](./clinic_diagram.png)
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
+**Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Anselem Odimegwu**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AnselemOdims](https://github.com/AnselemOdims)
+- LinkedIn: [AnselemOdims](https://linkedin.com/in/anselem-odimegwu)
 
-👤 **Author2**
+👤 **Ranjeet Singh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@thecodechaser](https://github.com/thecodechaser)
+- Twitter: [@thecodechaser](https://twitter.com/thecodechaser)
+- LinkedIn: [thecodechaser](https://linkedin.com/in/thecodechaser)
 
 ## 🤝 Contributing
 
